@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '凛空の小屋 服务器状态监控',
+  SiteName: '玛卡巴卡 服务器状态监控',
 
   // 站点链接
   SiteUrl: '/',
@@ -10,7 +10,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'ur1004328-7deb9fc4df464fb1d9674772',
+    'ur2911655-9cc18d59211dcdd2e0f54d43',
   ],
 
   // 是否显示监测站点的链接
@@ -23,13 +23,6 @@ window.Config = {
 
   // 导航栏菜单
   Navi: [
-    {
-      text: '晓空blog',
-      url: 'https://blog.moeworld.tech/'
-    },
-    {
-      text: '关于',
-      url: 'https://about.moeworld.top/'
-    }
+
   ]
 };
